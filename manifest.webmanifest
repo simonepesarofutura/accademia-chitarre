@@ -1,0 +1,16 @@
+{
+  "name": "Accademia chitarre",
+  "short_name": "Accademia",
+  "description": "Studio, quiz e catalogo di chitarre, ampli ed effetti di Cavalli Musica",
+  "start_url": "./index.html#studia",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFF4E2",
+  "theme_color": "#F2584B",
+  "lang": "it",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}
+  ]
+}
